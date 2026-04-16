@@ -26,7 +26,7 @@ vim /etc/systemd/system/prometheus.service
 ```
 
 * Enter below info
-```
+`````````
 [Unit]
 Description=Prometheus Server
 
