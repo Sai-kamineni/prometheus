@@ -35,7 +35,7 @@ ExecStart=/opt/prometheus/prometheus --config.file=/opt/prometheus/prometheus.ym
 
 [Install]
 WantedBy=multi-user.target
-```
+``````````
 
 ```
 systemctl start prometheus
