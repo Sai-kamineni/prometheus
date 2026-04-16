@@ -40,9 +40,9 @@ WantedBy=multi-user.target
 ```
 systemctl start prometheus
 ```
-```
+``````````
 systemctl enable prometheus
-````
+````````````
 
 
 
